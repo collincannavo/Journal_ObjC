@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  EntryListTableViewController.h
 //  Journal_ObjC
 //
 //  Created by Collin Cannavo on 6/26/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface EntryListTableViewController : UITableViewController
 
 @end
-
